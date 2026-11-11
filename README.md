@@ -39,4 +39,8 @@ pip install biopython numpy
 
 ## Citation
 
-If you use this script, please cite the Zenodo archive (DOI below) and the paper it was written for.
+If you use this script, please cite the Zenodo archive (DOI 10.5281/zenodo.24126030) and the paper it was written for. 
+
+A complete RXFP1–relaxin interaction model unlocks the design of potent mini-protein modulators
+Janik Clement, Tim Lkhagvajargal, Bradley L. Hoare, Tiffany Myint, Daniel R. Fox, Chunxiao Wang, Gavin J. Knott, Ross A.D. Bathgate, Rhys Grinter
+bioRxiv 2026.06.19.733483; doi: https://doi.org/10.64898/2026.06.19.733483
