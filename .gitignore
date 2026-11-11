@@ -1,3 +1,7 @@
+# Filter output directories
+filtered_pdbs_*/
+failed_pdbs_*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
